@@ -1,2 +1,2 @@
 # MiProyecto
-juiolk00
+Proyecto dual
