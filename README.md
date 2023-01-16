@@ -1,2 +1,2 @@
 # MiProyecto
-Proyecto dual
+Javier Jiménez Pérez
